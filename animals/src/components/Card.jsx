@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/card.css';
 
-const Card = ({name,likes, addLikes, removeCard, removeLikes}) => {
+const Card = ({name,likes, addLikes, removeCard, removeLikescj}) => {
   return (
     <div className='card'>
         <h2>{name}</h2>
